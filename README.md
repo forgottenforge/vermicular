@@ -275,7 +275,7 @@ For inquiries regarding commercial licensing or technical support:
 📧 nfo@forgottenforge.xyz
 🌐 www.forgottenforge.xyz
 
-- 🚀 Get started with TheQA and explore new frontiers in optimization! 🚀
+- 🚀 Get started with ForgottenForge and explore new frontiers in optimization! 🚀
 
 ---
 ![Vermicular](https://github.com/forgottenforge/vermicular/blob/main/vermicular.jpg)
