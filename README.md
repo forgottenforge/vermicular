@@ -182,7 +182,7 @@ We evaluated VERMICULAR's performance for sequential quantum searches using Rige
 **Performance Degradation Pattern:**
 Standard Grover shows significant performance degradation in later stages, likely due to accumulated noise and increased circuit depth. VERMICULAR maintains consistent 84-92% success rates across all stages.
 
-![grover_vs_vermicular]([https://github.com/vermicular/vermicular_demo_rigetti_20250801_231052.png](https://github.com/forgottenforge/vermicular/blob/main/vermicular_demo_rigetti_20250801_231052.png))
+![grover_vs_vermicular](https://github.com/forgottenforge/vermicular/blob/main/vermicular_demo_rigetti_20250801_231052.png)
 ---
 
 ## Technical Analysis
@@ -278,4 +278,4 @@ For inquiries regarding commercial licensing or technical support:
 - 🚀 Get started with TheQA and explore new frontiers in optimization! 🚀
 
 ---
-![Vermicular](https://github.com/.jpg)
+![Vermicular](https://github.com/forgottenforge/vermicular/blob/main/vermicular.jpg)
