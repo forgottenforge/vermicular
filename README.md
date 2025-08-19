@@ -217,7 +217,7 @@ Standard Grover shows significant performance degradation in later stages, likel
 ## Conclusion
 
 VERMICULAR demonstrates that practical quantum search is achievable on current NISQ devices through careful circuit optimization. With 93-98% success rates on real hardware and 12× improvement for multi-stage operations, it bridges the gap between theoretical quantum advantage and practical implementation.
-Implementation: https://github.com/vermicular
+Implementation: (https://github.com/forgottenforge/vermicular)
 Preprint: Available on preprints.org for reproducibility and validation
 
 ---
@@ -239,7 +239,7 @@ Quantum-Ritus
 ---
 
 **Implementation and data:**  
-[[https://github.com/vermicular](https://github.com/vermicular)](https://github.com/forgottenforge/vermicular)
+(https://github.com/forgottenforge/vermicular)
 
 
 ---
