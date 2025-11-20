@@ -3,6 +3,10 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![License: Elastic License 2.0](https://img.shields.io/badge/Commercial%20License-ELv2-orange)](LICENSE-COMMERCIAL.txt)
 
+
+https://github.com/user-attachments/assets/56cad9f0-0e37-46ac-ad84-b281ae837d7e
+
+
 # VERMICULAR: A Hardware-Optimized Quantum Search Algorithm
 
 _Achieving 93% Success Rate on Superconducting Quantum Computers_
